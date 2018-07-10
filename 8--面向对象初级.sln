@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8--面向对象初级", "8-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象复习", "面向对象复习\面向对象复习.csproj", "{2B615967-CDE8-4B43-8415-3BD49829D9FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "静态与非静态类", "静态与非静态类\静态与非静态类.csproj", "{BDEAA7BC-14FA-49BB-A89E-DCDCEF870A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2B615967-CDE8-4B43-8415-3BD49829D9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B615967-CDE8-4B43-8415-3BD49829D9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B615967-CDE8-4B43-8415-3BD49829D9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEAA7BC-14FA-49BB-A89E-DCDCEF870A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEAA7BC-14FA-49BB-A89E-DCDCEF870A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEAA7BC-14FA-49BB-A89E-DCDCEF870A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEAA7BC-14FA-49BB-A89E-DCDCEF870A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

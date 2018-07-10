@@ -28,6 +28,9 @@ namespace 面向对象复习
             }
         }
 
+        public char Gaden { get => _gaden; set => _gaden = value; }
+        public int Age { get => _age; set => _age = value; }
+
         public static Person PersonWithName(string name)
         {
             Person person = new Person();
