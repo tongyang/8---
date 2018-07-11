@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象复习", "面�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "静态与非静态类", "静态与非静态类\静态与非静态类.csproj", "{BDEAA7BC-14FA-49BB-A89E-DCDCEF870A17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "构造函数", "构造函数\构造函数.csproj", "{FCCAAFDA-38F0-4D60-A4DF-F82C87301BF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BDEAA7BC-14FA-49BB-A89E-DCDCEF870A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDEAA7BC-14FA-49BB-A89E-DCDCEF870A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDEAA7BC-14FA-49BB-A89E-DCDCEF870A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCAAFDA-38F0-4D60-A4DF-F82C87301BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCAAFDA-38F0-4D60-A4DF-F82C87301BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCAAFDA-38F0-4D60-A4DF-F82C87301BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCAAFDA-38F0-4D60-A4DF-F82C87301BF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
