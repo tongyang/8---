@@ -12,5 +12,7 @@ namespace 构造函数
         {
             Student s = new Student("tongyang", 30, "男");
         }
+
+        
     }
 }
